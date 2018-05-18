@@ -15,6 +15,8 @@ public class FirstClass {
 		dr.get("https://www.google.com");
 		dr.close();
 		
+		System.out.println("Commited to git");
+		
 	}
 	
 }
